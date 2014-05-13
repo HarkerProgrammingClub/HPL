@@ -27,6 +27,10 @@
   // Ayush Pancholy
   // Ashwin Reddy
   
+// CLUB MOTTO CREATOR
+  // Ashwin Reddy
+  // The Harker School
+  
 // EXECUTIVE CLUB FOUNDER
   // Ayush Pancholy
 
@@ -35,6 +39,7 @@
   // The Harker School
   
 // CLUB MOTTO
-  // Aim high, have fun!
+  // "Enitor Alte, Habete Ludum"
+  // "Climb High, Have Game"
   
 // THANK YOU
