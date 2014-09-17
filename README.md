@@ -9,10 +9,10 @@ Quite BASICally, HPL is a language that we are building to partially replace and
 First, you must be an official member of the club to make important changes. However, if you are a Harker student in any grade, you may fork this project and edit it as you'd like. In addition, our club is open to members, come to room 29 if you want to join. 
 
 # Where we are
-Right now, we are still developing the philosophy and syntax of this currently nameless language. Stay tuned for more updates and changes; they will be posted here as soon as possible. Thank you.
+Actually, this project has (sort of) been paused. However, a slightly more advanced prototype has been created at you can view it at the following link: [Tea](http://coderninja.github.io/Tea)
 
 # Why JavaScript?
-JavaScript is a language that can easily be implemented on the web. This means that we can make our code open source and develop online IDEs for it. It is also very easy to learn and most of the members of the Programming Club know it or can easily learn it. This also means that anyone editing just needs to know some JavaScript.
+JavaScript is a language that can easily be implemented on the web. This means that we can make our code open source and develop online IDEs for it. It is also very easy to learn and most of the members of the Programming Club know it or can easily learn it. This also means that anyone editing just needs to know some JavaScript. However, this could actually be implemented in any language
 
 The files are linked in on the index.html page.
 
